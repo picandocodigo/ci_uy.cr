@@ -42,4 +42,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [Fernando Briano](https://github.com/your-github-user) - creator and maintainer
+- [Fernando Briano](https://github.com/picandocodigo) - creator and maintainer
