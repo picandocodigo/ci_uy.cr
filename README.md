@@ -18,6 +18,12 @@ A shard to validate Uruguayan Identity Documents (Cedula de Identidad Uruguaya) 
 
 ```crystal
 require "ci_uy"
+
+CiUY.validate("1.111.111-1")
+
+CiUY.validation_digit("2222222")
+
+CiUY.random
 ```
 
 It receives a string (or integer) and doesn't care what you use to separate the digits, it gets the numbers from the string and checks the verification digit. So all of these formats are valid: `1.111.111-1`, `1_111_111_1`, `1.111.111/1`.
