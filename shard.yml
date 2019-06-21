@@ -1,0 +1,9 @@
+name: ci_uy
+version: 0.1.0
+
+authors:
+  - Fernando Briano <fernando@picandocodigo.net>
+
+crystal: 0.29.0
+
+license: MIT
