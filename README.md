@@ -1,6 +1,5 @@
 # ci_uy
-
-[![Build Status](https://travis-ci.org/picandocodigo/ci_uy.cr.svg?branch=master)](https://travis-ci.org/picandocodigo/ci_uy.cr)
+[![.github/workflows/ci_uy.yml](https://github.com/picandocodigo/ci_uy.cr/actions/workflows/ci_uy.yml/badge.svg)](https://github.com/picandocodigo/ci_uy.cr/actions/workflows/ci_uy.yml)
 
 A shard to validate Uruguayan Identity Documents (Cedula de Identidad Uruguaya) - A port of: https://rubygems.org/gems/ci_uy
 
